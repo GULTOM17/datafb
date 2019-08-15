@@ -8,8 +8,8 @@ $ pkg install git python2
 
 $ git clone https://github.com/GULTOM17/datafb.git
 
-$ cd OSIF
+$ cd datafb
 
 $ pip2 install -r requirements.txt
 
-$ python2 osif.py
+$ python2 data.py
